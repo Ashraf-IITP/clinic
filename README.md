@@ -18,3 +18,6 @@ password: doctor2
 Reception User:
 username: receptionist
 password: receptionist 
+
+## SQL 
+SQL script directory contains SQL commands exported for running in other system
